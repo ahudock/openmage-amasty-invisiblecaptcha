@@ -1,4 +1,5 @@
-# Amasty Google Invisible reCaptcha for OpenMage / PHP 8
+# Amasty Google Invisible reCaptcha
+# for OpenMage / PHP 8
 
 Adds OpenMage / PHP 8.2+ compatibility to Amasty's [Google Invisible reCaptcha](https://amasty.com/magento-google-captcha.html) extension for Magento 1.
 
