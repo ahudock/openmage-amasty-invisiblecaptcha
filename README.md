@@ -12,5 +12,5 @@ Installation:
 
 Caveats:
 - You must already own the Google Invisible reCaptcha extension for Magento 1
-- This extension was written for OpenMage, not Magento 1
+- This extension was developed with OpenMage Magento LTS 20.3.0 and Amasty InvisibleCaptcha v2.4.4
 - I am in no way affiliated with Amasty
