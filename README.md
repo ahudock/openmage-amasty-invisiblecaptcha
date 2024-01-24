@@ -11,6 +11,6 @@ Installation:
 3. Clear cache and reload
 
 Caveats:
-- You must already own the Google Invisible reCaptchaextension for Magento 1
+- You must already own the Google Invisible reCaptcha extension for Magento 1
 - This extension was written for OpenMage, not Magento 1
 - I don't work for Amasty
