@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Threeprong_InvisibleCaptcha>
+            <version>0.1.0</version>
+        </Threeprong_InvisibleCaptcha>
+    </modules>
+    <global>
+        <blocks>
+            <aminvisiblecaptcha>
+                <rewrite>
+                    <captcha>Threeprong_InvisibleCaptcha_Block_Captcha</captcha>
+                </rewrite>
+            </aminvisiblecaptcha>
+        </blocks>
+        <models>
+            <threeprong_invisiblecaptcha>
+                <class>Threeprong_InvisibleCaptcha_Model</class>
+            </threeprong_invisiblecaptcha>
+            <aminvisiblecaptcha>
+                <rewrite>
+                    <captcha>Threeprong_InvisibleCaptcha_Model_Captcha</captcha>
+                </rewrite>
+            </aminvisiblecaptcha>
+        </models>
+    </global>
+    <frontend>
+        <layout>
+            <updates>
+                <compactlist module="Threeprong">
+                    <file>threeprong/invisiblecaptcha.xml</file>
+                </compactlist>
+            </updates>
+        </layout>
+    </frontend>
+</config>

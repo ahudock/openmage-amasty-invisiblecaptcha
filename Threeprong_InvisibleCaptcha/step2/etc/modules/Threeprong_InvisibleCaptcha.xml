@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Threeprong_InvisibleCaptcha>
+            <active>true</active>
+            <codePool>local</codePool>
+            <edition>community</edition>
+            <version>0.1.0</version>
+            <depends>
+                <Amasty_InvisibleCaptcha />
+            </depends>
+        </Threeprong_InvisibleCaptcha>
+    </modules>
+</config>
