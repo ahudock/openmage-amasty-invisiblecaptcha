@@ -1,7 +1,12 @@
 <?php
 /**
- * @package    Threeprong_InvisibleCaptcha
+ * @author Amasty Team
+ * @copyright Copyright (c) 2021 Amasty (https://www.amasty.com)
+ * @package Amasty_InvisibleCaptcha
+ */
+/**
  * @author     Andy Hudock <ahudock@pm.me>
+ * @package    Threeprong_InvisibleCaptcha
  *
  * Replaces Amasty_InvisibleCaptcha_Block_Captcha. This is necessary because the quoteEscape method is not compatible
  * with that in the core block template, which causes fatal errors due to function signature mismatch with PHP 8.0+
