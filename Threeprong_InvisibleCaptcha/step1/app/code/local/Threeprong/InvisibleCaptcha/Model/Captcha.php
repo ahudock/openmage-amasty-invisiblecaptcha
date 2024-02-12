@@ -1,7 +1,12 @@
 <?php
 /**
- * @package    Threeprong_InvisibleCaptcha
+ * @author Amasty Team
+ * @copyright Copyright (c) 2021 Amasty (https://www.amasty.com)
+ * @package Amasty_InvisibleCaptcha
+ */
+/**
  * @author     Andy Hudock <ahudock@pm.me>
+ * @package    Threeprong_InvisibleCaptcha
  *
  * Adds PHP 8.2 compatibility to Amasty's InvisibleCaptcha module.
  */
